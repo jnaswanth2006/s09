@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jnaswanth2006.github.io/S109",
+  "homepage": "https://jnaswanth2006.github.io/s09",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
